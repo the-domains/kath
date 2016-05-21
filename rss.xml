@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kath]]></title>
+        <description><![CDATA[kath]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 09:46:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. ]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h1><p>Integer maximus molestie neque. Vivamus porttitor non nulla ut volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor, ligula vitae luctus imperdiet, nisl eros tincidunt odio, vitae aliquam justo lorem id justo. In lorem lectus, imperdiet eu tristique sed, luctus in sapien. Mauris ullamcorper lorem a felis feugiat porttitor. Praesent ultricies leo erat, non feugiat mauris ornare eget. Ut arcu nunc, fringilla et vulputate molestie, pulvinar at sapien. Vestibulum mollis orci quis tempor fringilla. Praesent luctus elit vulputate purus consequat euismod.</p></article>]]></description>
+            <link>undefinedlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit/index.html</link>
+            <guid isPermaLink="false">6f87b928-69a3-4faf-b2c6-e81fc78db8ef</guid>
+            <pubDate>Sat, 21 May 2016 09:45:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
