@@ -1,9 +1,7 @@
-favicon: null
 name: kath
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.98943
+typography_spectrum: 0.82358
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.374552
-  brandStrength: 0.5
-  lightness: 0.5143369
   brandColors:
     - '#e9e4e1'
     - '#aac3c0'
     - '#562d4b'
     - '#564f47'
     - '#728181'
+  brandStrength: 0.5
+  lightness: 0.5143369
+  saturation: 0.5
   rhythmicContrast: 0.9014337
-typography_spectrum: 0.4390681
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
